@@ -85,11 +85,18 @@ following is a reference of the available data.
   <tbody>
     <tr>
       <td><p><code>site.time</code></p></td>
-      <td><p>
+      <td>
+        <p>
 
         The current time (when you run the <code>jekyll</code> command).
 
-      </p></td>
+        </p>
+        <p>
+        
+        Tip: When you commit your changed to GitHub, "jekyll" command will Recompiling on your site. So time will looks a bit of differend.
+        
+        </p>
+      </td>
     </tr>
     <tr>
       <td><p><code>site.pages</code></p></td>
